@@ -6,4 +6,4 @@ output c
 //Using logical operator and logic is designed
 assign c = a&b;
 
-endmodule
+endmodule //end of module
